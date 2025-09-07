@@ -1,0 +1,10 @@
+main: me.rakabzh.Main
+name: bedwars
+version: 1.0
+author: rakabzh
+api-version: 1.8.8
+description: Un plugin bedwars
+depend: [ProtocolLib]
+commands:
+  config:
+    permission: op
